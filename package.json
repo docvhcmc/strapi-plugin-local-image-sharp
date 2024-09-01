@@ -70,7 +70,6 @@
   },
   "homepage": "https://github.com/strapi-community/strapi-plugin-local-image-sharp",
   "engines": {
-    "node": ">=14.x.x <=18.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
